@@ -1,0 +1,8 @@
+{
+  "domain": "modbus-rs485",
+  "name": "ModbusRS485",
+  "documentation": "https://www.home-assistant.io/integrations/modbus",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@torkis"]
+}
